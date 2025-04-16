@@ -1,7 +1,7 @@
 # Matriks 5X5
 Repository ini dibuat untuk memenuhi tugas Mata Kuliah Bahasa Pemrograman II 
 
-Source Code :
+
 ```python
 Matriks A = [
     [1, 2, 3, 4, 5],
